@@ -1,3 +1,8 @@
-h1 {
+#devName {
   color: blue;
+  font-size: 2.5rem;
+}
+#devRole {
+  color: goldenrod;
+  font-size: 2rem;
 }
